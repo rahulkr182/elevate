@@ -1,3 +1,5 @@
+## Frontend Deployment link - https://elevate-mu-blue.vercel.app/
+
 # Elevate: MERN Stack Fitness Tracker 🚀
 
 Elevate is a high-performance, modern fitness tracking application built on the MERN stack. It moves beyond simple CRUD operations to deliver an intelligent, portfolio-ready experience—featuring an **AI-powered Fitness Coach**, dynamic data visualizations, and a premium glassmorphic UI.
